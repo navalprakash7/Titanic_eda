@@ -43,47 +43,47 @@ The dataset contains passenger-level records from the RMS Titanic (1912), common
 ### 1. Distribution of Age and Fare
 Shows the distribution of passenger ages and ticket fares, highlighting common age groups and fare ranges.
 
-![Age and Fare Distribution](images/graph1.png)
+<img src="Images/graph1.png" width="700">
 
 ### 2. Count Distribution of Categorical Columns
 Displays the frequency of each category for gender, passenger class, embarkation port, and survival status.
 
-![Categorical Columns Count](images/graph2.png)
+<img src="Images/graph2.png" width="700">
 
 ### 3. Survival vs Categorical Features
 Compares survivor and non-survivor counts across gender, passenger class, and embarkation port.
 
-![Survival by Categorical Features](images/graph3.png)
+<img src="Images/graph3.png" width="700">
 
 ### 4. Age and Fare vs Survival
 Compares age and fare distributions between survivors and non-survivors to identify potential survival patterns.
 
-![Age and Fare vs Survival](images/graph4.png)
+<img src="Images/graph4.png" width="700">
 
 ### 5. Correlation Heatmap
 Visualizes relationships between numerical variables using correlation coefficients.
 
-![Correlation Heatmap](images/grap5.png)
+<img src="Images/grap5.png" width="700">
 
 ### 6. Age Distribution by Survival
 Shows the age distribution of survivors and non-survivors to identify age-related survival trends.
 
-![Age Distribution by Survival](images/grap6.png)
+<img src="Images/grap6.png" width="700">
 
 ### 7. Pairplot for Numerical Features
 Explores relationships among numerical features and their association with survival status.
 
-![Pairplot](images/graph7.png)
+<img src="Images/graph7.png" width="700">
 
 ### 8. Outlier Detection for Age and Fare
 Identifies unusual age and fare values that differ significantly from the rest of the dataset.
 
-![Outlier Detection](images/graph8.png)
+<img src="Images/graph8.png" width="700">
 
 ### 9. Survival Rate by Gender and Passenger Class
 Shows the percentage of survivors across genders and passenger classes, highlighting differences in survival rates.
 
-![Survival Rate by Gender and Class](images/graph9.png)
+<img src="Images/graph9.png" width="700">
 
 ## ✅ Key Takeaways
 - **Gender**: Women had a substantially higher survival rate than men, consistent with the "women and children first" evacuation policy.
