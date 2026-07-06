@@ -60,7 +60,7 @@ Compares age and fare distributions between survivors and non-survivors to ident
 
 <img src="Images/graph4.png" width="700">
 
-### 5. Correlation Heatmap
+### 5. Correlation using heatmap for numerical features
 Visualizes relationships between numerical variables using correlation coefficients.
 
 <img src="Images/grap5.png" width="700">
